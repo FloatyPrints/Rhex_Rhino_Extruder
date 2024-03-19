@@ -1,15 +1,20 @@
 # Rhex_Rhino_Extruder
-Extruder made for the Archetype Eco System with Worm Gear
+Extruder made for the Archetype Eco System with Worm Gear.
+
+Link to the Archetype GitHub where you can find the rest of the system: https://github.com/Armchair-Heavy-Industries/Archetype
+Link to the Armchair Discord where you can meet all the nice People, but you are actually here from the Discord, right? : https://discord.gg/armchairengineeringsux
 
 # PROJECT GOALS:
-- Fully Enclosed Design or Open Air
-- Making Lead Screws Great again or even go higher with Ball Screws! 
-- 9mm Belts on XY
-- NEMA17 Motors XYZ
-- Backpack Electronic like the V24 or Annex-Engineering K1/3
+- I want to make an reliable Extruder which is driven with an Worm Gear.
+- Pretty much to get an Extruder which can probably compete with the existing ones inside the Archetype System.
+- Making an Extruder which doesn`t Suck
+- Making an Extruder which realy works
+- Spend a shit ton of time for something which other people allready figured out but yeah
+- I hate my life enough to make that stuff
 
 # Known Problems
-
+- What? There are no problems. Never. Realy. Just a few.
+- 
 # IMAGES
 
 #
