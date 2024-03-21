@@ -19,7 +19,3 @@ Link to the Armchair Discord where you can meet all the nice People, but you are
 # IMAGES
 
 #
-
-
-
-https://discord.gg/voron
