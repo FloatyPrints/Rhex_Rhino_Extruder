@@ -1,6 +1,8 @@
 # Rhex_Rhino_Extruder [WIP]
 Extruder made for the Archetype Eco System with an Worm Gear.
 
+![6](Images/IMG_0381.jpeg)
+
 Link to the Archetype GitHub: https://github.com/Armchair-Heavy-Industries/Archetype
 
 Link to the Armchair Discord where you can meet all the nice People, but you are actually here from the Discord, right? : https://discord.gg/armchairengineeringsux
