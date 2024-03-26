@@ -19,9 +19,9 @@
 |Drive|Worm|Bearing|BMG KIT|D5 Shaft|Motor|
 |---|---|---|---|---|---|
 |20T|1 Start 0.5M Brass Worm or better|2x SMR115|Every affordable 
-kit|Min 45mm D-Cut|
+kit|Min 45mm D-Cut|LDO-36STH20-1004|
 |40T|2 Start 0.5M Brass Worm or better|2x SMR115 & 3x7x3 Bearing|Every affordable 
-kit|Min 45mm D-Cut|
+kit|Min 45mm D-Cut|LDO-36STH20-1004|
 
 # Known Problems
 ### 40T Version
