@@ -1,14 +1,10 @@
 # Rhex_Rhino_Extruder [WIP]
-40T and 20T Worm-Extruder made for the Archetype Eco System with an Worm Gear.
-
+40T and 20T Worm-Extruder made for the Archetype Eco System.
+--> Archetype GitHub: https://github.com/Armchair-Heavy-Industries/Archetype
 The 40T Version got it's inspiration from Annex DFA 
 --> https://github.com/Annex-Engineering/Folded_Ascender-Extruder
 
 ![6](Images/IMG_0381.jpeg)
-
-Link to the Archetype GitHub: https://github.com/Armchair-Heavy-Industries/Archetype
-
-Link to the Armchair Discord where you can meet all the nice People, but you are actually here from the Discord, right? : https://discord.gg/armchairengineeringsux
 
 # PROJECT GOALS:
 - I want to make an reliable Extruder which is driven with an Worm Gear.
