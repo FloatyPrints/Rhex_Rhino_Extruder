@@ -15,13 +15,10 @@
 - Recommended material: **ABS or better**
 - Make sure to use Supports! *I would not recommend Organic or Tree Supports*
 
+![6](Images/supports.png)  
+
 ## BOM
-|Drive|Worm|Bearing|BMG KIT|D5 Shaft|Motor|
-|---|---|---|---|---|---|
-|20T|1 Start 0.5M Brass Worm or better|2x SMR115|Every affordable 
-kit|Min 45mm D-Cut|LDO-36STH20-1004|
-|40T|2 Start 0.5M Brass Worm or better|2x SMR115 & 3x7x3 Bearing|Every affordable 
-kit|Min 45mm D-Cut|LDO-36STH20-1004|
+WIP
 
 # Known Problems
 ### 40T Version
